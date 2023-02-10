@@ -10,7 +10,8 @@ ETL and AWS
   in our dataset.
 ### Amazon Review ETL(1st deliverable)
 In this deliverable we pick one random dataset and creating four tables from four DataFrames.The each tables from different dataframes are bellow:
-![]()
+  * Review_id_table
+![review_id_table](resources/review_id_table.png)
  
      
     
