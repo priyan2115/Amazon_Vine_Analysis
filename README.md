@@ -8,7 +8,10 @@ ETL and AWS
   connect to **AWS RDS instance** and load the transform data into **pgAdmin**.
 * Next we used **PySpark,Pandas, or SQL** to determine if there is any bias towards favourable reviews from Vine Members 
   in our dataset.
-
+### Amazon Review ETL(1st deliverable)
+In this deliverable we pick one random dataset and creating four tables from four DataFrames.The each tables from different dataframes are bellow:
+![]()
+ 
      
     
 # Results
@@ -17,5 +20,6 @@ ETL and AWS
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ![5-star_review](resources/5-star_review.png)
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+![percentage_5-star](resources/percentage_5-star.png)
 
 #Summary
