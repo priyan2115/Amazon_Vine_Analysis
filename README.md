@@ -15,9 +15,9 @@ In this deliverable we pick one random dataset and creating four tables from fou
   * Products_table from product_df
  ![product_table](resources/product_table.png)
   * Vine_table from Vine_df
- ![]()
+ ![vine_table](resources/vine_table.png)
   * customers_table from customers_df
-  ![]()
+  ![customers_table](resources/customers_table.png)
  
      
     
@@ -29,4 +29,7 @@ In this deliverable we pick one random dataset and creating four tables from fou
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 ![percentage_5-star](resources/percentage_5-star.png)
 
-#Summary
+# Summary
+
+Per the summary,
+There is a total number of reviews of 65,581 Of this number,Paid vine star with a 5 star rating is 613, unpaid vine 5 star ratings is 64,968.Also, about 36.22% of reviewers constitute the paid vine category and 47.01% constitute the unpaid category. There is bias in my opinion since the paid and unpaid cocategories together constitutes more than 50% of the total 5 star vine reviewers. 
